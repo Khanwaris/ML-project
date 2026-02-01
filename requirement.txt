@@ -4,3 +4,7 @@ python-dotenv
 mysql-connector
 pymysql
 scikit-learn
+seaborn
+matplotlib
+dill
+mlflow==2.2.2
